@@ -6,3 +6,4 @@
 *.csproj
 *.unityproj
 *.sln
+.DS_Store
